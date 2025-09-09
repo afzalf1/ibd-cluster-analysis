@@ -10,7 +10,7 @@ This repository contains R scripts for analyzing associations between patient cl
 
 ## ⚠ Note on Data
 
-The actual dataset used in this analysis is **not included** in this repository due to privacy concerns. To run the scripts, you must provide your own data in the same format as the original:
+The actual dataset used in this analysis is not included in this repository due to confidential information. To run the scripts, you must provide your own data in the same format as the original:
 
 - Tab-separated values (`.tsv` file)
 - Columns required:
