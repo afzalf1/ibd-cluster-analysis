@@ -1,0 +1,25 @@
+# R data files
+*.RData
+*.rda
+*.rds
+
+# R history and session files
+.Rhistory
+.Rapp.history
+.Rproj.user/
+
+# Output folders (if any)
+*.html
+*.pdf
+*.png
+*.jpeg
+*.svg
+
+# Data files (omit real datasets)
+*.tsv
+*.csv
+*.xlsx
+
+# OS-specific files
+.DS_Store
+Thumbs.db
