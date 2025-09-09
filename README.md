@@ -6,7 +6,6 @@ This repository contains R scripts for analyzing associations between patient cl
 - Calculating observed vs. expected ratios.
 - Performing chi-square tests for independence.
 - Computing adjusted residuals and FDR-corrected p-values for each cell.
-- Focusing on pairwise relationships (Cluster-Diagnosis, Cluster-Complication, Cluster-Surgery).
 
 ## ⚠ Note on Data
 
